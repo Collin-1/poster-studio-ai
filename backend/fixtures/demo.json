@@ -1,0 +1,6 @@
+[
+  {"agent":"director","key":"*","output":{"message":"This is a recorded demo response. Who is your audience and which event details should be included? Edit this example brief before approving.","brief":{"title":"After Hours","objective":"Bring the creative community together","audience":"Local designers and curious creatives","tone":"Bold and welcoming","details":"24 November · 18:00 · Studio 04"}}},
+  {"agent":"copywriter","key":"*","output":{"headline":"Ideas after hours.","supporting":"Design talks. New perspectives. Good company. 24 November · 18:00 · Studio 04","cta":"Save your seat"}},
+  {"agent":"designer","key":"*","output":{"background":"#172b25","foreground":"#fff8e7","accent":"#dfef78","motif":"orbit","rationale":"An editorial composition with generous space and a bright orbital motif."}},
+  {"agent":"critic","key":"*","output":{"passed":true,"score":92,"issues":[],"recommendation":"Recorded demo evaluation. Confirm factual accuracy against your own brief before use."}}
+]
